@@ -13,5 +13,6 @@ class SpringbootTestApplicationTests {
 
 	void testGitHub(){
         System.out.println("Everything is already!");
+        System.out.println("第二次更新");
     }
 }
